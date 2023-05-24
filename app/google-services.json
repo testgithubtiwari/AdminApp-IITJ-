@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "227358791652",
+    "firebase_url": "https://iitj-admin-app-default-rtdb.firebaseio.com",
+    "project_id": "iitj-admin-app",
+    "storage_bucket": "iitj-admin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227358791652:android:d2e4b7e6b726150a30d9f1",
+        "android_client_info": {
+          "package_name": "com.example.adminapp_iitj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227358791652-7k0ifojmlrr36o8qvfikmqnoduol9gs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMKqDaFQTHvCVAgRwy66CzVdqNhOsd3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227358791652-7k0ifojmlrr36o8qvfikmqnoduol9gs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227358791652:android:afaf2741ee900bb730d9f1",
+        "android_client_info": {
+          "package_name": "com.example.iitj_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227358791652-7k0ifojmlrr36o8qvfikmqnoduol9gs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMKqDaFQTHvCVAgRwy66CzVdqNhOsd3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227358791652-7k0ifojmlrr36o8qvfikmqnoduol9gs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
