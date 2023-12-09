@@ -1,0 +1,7 @@
+com.example.adminapp_iitj.test.app-androidTest-0 C:\Users\HP\AndroidStudioProjects\AdminApp_IITJ\app\build\generated\res\resValues\androidTest\debug
+com.example.adminapp_iitj.test.app-androidTest-1 C:\Users\HP\AndroidStudioProjects\AdminApp_IITJ\app\build\generated\res\rs\androidTest\debug
+com.example.adminapp_iitj.test.app-mergeDebugAndroidTestResources-2 C:\Users\HP\AndroidStudioProjects\AdminApp_IITJ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.adminapp_iitj.test.app-mergeDebugAndroidTestResources-3 C:\Users\HP\AndroidStudioProjects\AdminApp_IITJ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.adminapp_iitj.test.app-merged_res-4 C:\Users\HP\AndroidStudioProjects\AdminApp_IITJ\app\build\intermediates\merged_res\debugAndroidTest
+com.example.adminapp_iitj.test.app-core-1.5.0-5 D:\android\caches\transforms-3\644e934f7ca7739d2f292e027b7e0f19\transformed\core-1.5.0\res
+com.example.adminapp_iitj.test.app-annotation-experimental-1.3.0-6 D:\android\caches\transforms-3\b1e51eb5eb23999b6abbdade81dfb366\transformed\annotation-experimental-1.3.0\res

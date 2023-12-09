@@ -1,0 +1,3 @@
+com.example.adminapp_iitj.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
