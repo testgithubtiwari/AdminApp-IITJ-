@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.adminapp_iitj.app-mergeDebugResources-4:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\android\\caches\\transforms-3\\71f5f7fe93e9c7e65fdc177bd7ad2497\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

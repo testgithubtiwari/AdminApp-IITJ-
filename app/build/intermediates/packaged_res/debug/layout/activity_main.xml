@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="@dimen/_5sdp">
+
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="@dimen/_130sdp"
+            android:layout_height="@dimen/_130sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:id="@+id/addNotice"
+            android:elevation="@dimen/_3sdp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                 <ImageView
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="@dimen/_60sdp"
+                    android:background="@drawable/circle_grenn"
+                    android:src="@drawable/ic_event"
+                    android:padding="@dimen/_6sdp"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_1sdp"
+                    android:background="#c1c1c1"
+                    android:layout_marginTop="@dimen/_6sdp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Upload Notice"
+                    android:textStyle="bold"
+                    android:padding="@dimen/_3sdp"
+                    android:layout_marginTop="@dimen/_6sdp"
+                    android:textColor="#C8000000"/>
+
+
+
+
+
+            </LinearLayout>
+
+
+
+
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="@dimen/_130sdp"
+            android:layout_height="@dimen/_130sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:id="@+id/addGalleryImage"
+            android:elevation="@dimen/_3sdp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="@dimen/_60sdp"
+                    android:background="@drawable/circle_purple"
+                    android:src="@drawable/ic_gallery"
+                    android:padding="@dimen/_6sdp"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_1sdp"
+                    android:background="#c1c1c1"
+                    android:layout_marginTop="@dimen/_6sdp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Upload Image"
+                    android:textStyle="bold"
+                    android:padding="@dimen/_3sdp"
+                    android:layout_marginTop="@dimen/_6sdp"
+                    android:textColor="#C8000000"/>
+
+
+
+            </LinearLayout>
+
+
+
+
+
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_margin="@dimen/_5sdp">
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="@dimen/_130sdp"
+                android:layout_height="@dimen/_130sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:id="@+id/addEbook"
+                android:elevation="@dimen/_3sdp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="@dimen/_60sdp"
+                        android:layout_height="@dimen/_60sdp"
+                        android:background="@drawable/circle_pink"
+                        android:src="@drawable/ic_upload"
+                        android:padding="@dimen/_6sdp"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_1sdp"
+                        android:background="#c1c1c1"
+                        android:layout_marginTop="@dimen/_6sdp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Upload Ebook"
+                        android:textStyle="bold"
+                        android:padding="@dimen/_3sdp"
+                        android:layout_marginTop="@dimen/_6sdp"
+                        android:textColor="#C8000000"/>
+
+
+
+
+
+                </LinearLayout>
+
+
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="@dimen/_130sdp"
+                android:layout_height="@dimen/_130sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:id="@+id/addfaculty"
+                android:elevation="@dimen/_3sdp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="@dimen/_60sdp"
+                        android:layout_height="@dimen/_60sdp"
+                        android:background="@drawable/circle_yellow"
+                        android:src="@drawable/ic_group"
+                        android:padding="@dimen/_6sdp"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_1sdp"
+                        android:background="#c1c1c1"
+                        android:layout_marginTop="@dimen/_6sdp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Update Faculty"
+                        android:textStyle="bold"
+                        android:padding="@dimen/_3sdp"
+                        android:layout_marginTop="@dimen/_6sdp"
+                        android:textColor="#C8000000"/>
+
+
+
+                </LinearLayout>
+
+
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_margin="@dimen/_5sdp">
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="@dimen/_130sdp"
+                android:layout_height="@dimen/_130sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:id="@+id/deleteNotice"
+                android:elevation="@dimen/_3sdp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="@dimen/_60sdp"
+                        android:layout_height="@dimen/_60sdp"
+                        android:background="@drawable/circle_red"
+                        android:src="@drawable/ic_delete"
+                        android:padding="@dimen/_6sdp"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_1sdp"
+                        android:background="#c1c1c1"
+                        android:layout_marginTop="@dimen/_6sdp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Delete Notice"
+                        android:textStyle="bold"
+                        android:padding="@dimen/_3sdp"
+                        android:layout_marginTop="@dimen/_6sdp"
+                        android:textColor="#C8000000"/>
+
+
+
+
+
+                </LinearLayout>
+
+
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+
+
+        </LinearLayout>
+
+
+</LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

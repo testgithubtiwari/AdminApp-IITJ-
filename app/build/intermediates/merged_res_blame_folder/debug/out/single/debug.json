@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_addimage.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_addimage.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_login.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_circle_pink.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\circle_pink.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_fab.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_fab.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_circle_grenn.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\circle_grenn.xml"
+    },
+    {
+        "merged": "com.example.adminapp_iitj.app-merged_res-6:/layout_activity_upload_ebook.xml.flat",
+        "source": "com.example.adminapp_iitj.app-main-8:/layout/activity_upload_ebook.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_delete_notice.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_delete_notice.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_event.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_event.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_circle_yellow.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_login.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_login.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_newsfeed_item.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\newsfeed_item.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_upload.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_pdf.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_circle_purple.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\circle_purple.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_signup.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_signup.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\xml_backup_rules.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_update_faculty.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_update_faculty.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_add_teacher.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_add_teacher.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_upload_image.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_register.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_upload_notice.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_upload_notice.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_circle_red.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_image.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-pngs-1:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_delete.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_update_teacher.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_update_teacher.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_gallery.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_group.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_activity_upload_ebook.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\activity_upload_ebook.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_faculty_item_layout.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\faculty_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\layout_nodata_layout.xml.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\layout\\nodata_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-merged_res-6:\\drawable_ic_avatar.png.flat",
+        "source": "D:\\android\\daemon\\7.6\\com.example.adminapp_iitj.app-main-8:\\drawable\\ic_avatar.png"
+    }
+]
